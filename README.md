@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0036-valid-sudoku) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Binary Search
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0174-dungeon-game](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 ## Matrix
@@ -116,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0044-wildcard-matching) |
+## Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
