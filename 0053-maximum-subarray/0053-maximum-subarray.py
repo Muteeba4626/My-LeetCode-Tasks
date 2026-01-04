@@ -1,3 +1,7 @@
+# LeetCode 53 - Maximum Subarray
+# https://leetcode.com/problems/maximum-subarray/
+# Author: muteeba4266
+
 class Solution(object):
     def maxSubArray(self, nums):
         if not nums:
