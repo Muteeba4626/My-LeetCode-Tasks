@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Binary Search
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0010-regular-expression-matching) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Dynamic Programming
 |  |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
