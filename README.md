@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0042-trapping-rain-water) |
 | [0174-dungeon-game](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 ## Recursion
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0042-trapping-rain-water) |
 | [0174-dungeon-game](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 ## Matrix
@@ -94,8 +96,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
