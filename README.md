@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0053-maximum-subarray) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
