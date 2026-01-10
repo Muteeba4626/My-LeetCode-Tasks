@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0024-swap-nodes-in-pairs) |
 ## Divide and Conquer
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0042-trapping-rain-water) |
 ## Stack
