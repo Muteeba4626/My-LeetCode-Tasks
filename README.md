@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0044-wildcard-matching) |
 | [0087-scramble-string](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0115-distinct-subsequences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0087-scramble-string) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0095-unique-binary-search-trees-ii) |
+| [0115-distinct-subsequences](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0115-distinct-subsequences) |
 | [0174-dungeon-game](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0233-number-of-digit-one](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0233-number-of-digit-one) |
