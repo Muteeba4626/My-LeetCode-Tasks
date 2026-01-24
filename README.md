@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0044-wildcard-matching) |
 ## Dynamic Programming
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0043-multiply-strings) |
 | [0172-factorial-trailing-zeroes](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0172-factorial-trailing-zeroes) |
 ## Sliding Window
 |  |
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0095-unique-binary-search-trees-ii) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
