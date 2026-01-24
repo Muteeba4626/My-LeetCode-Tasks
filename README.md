@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0233-number-of-digit-one](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0233-number-of-digit-one) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0327-count-of-range-sum) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Matrix
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0074-search-a-2d-matrix) |
 | [0174-dungeon-game](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0174-dungeon-game) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Math
 |  |
@@ -204,4 +207,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0062-unique-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Graph Theory
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
