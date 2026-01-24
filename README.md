@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0062-unique-paths) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0095-unique-binary-search-trees-ii) |
 | [0174-dungeon-game](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0062-unique-paths) |
 | [0172-factorial-trailing-zeroes](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0172-factorial-trailing-zeroes) |
 ## Sliding Window
 |  |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0043-multiply-strings) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
