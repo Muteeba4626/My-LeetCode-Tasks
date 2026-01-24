@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0024-swap-nodes-in-pairs) |
+| [0086-partition-list](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0086-partition-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0042-trapping-rain-water) |
+| [0086-partition-list](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0086-partition-list) |
 ## Stack
 |  |
 | ------- |
