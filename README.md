@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0022-generate-parentheses) |
+| [0052-n-queens-ii](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0052-n-queens-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0095-unique-binary-search-trees-ii) |
 ## Two Pointers
 |  |
