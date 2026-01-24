@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0044-wildcard-matching) |
 | [0087-scramble-string](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0131-palindrome-partitioning](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0131-palindrome-partitioning) |
 | [0174-dungeon-game](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0233-number-of-digit-one](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0233-number-of-digit-one) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0022-generate-parentheses) |
 | [0052-n-queens-ii](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0052-n-queens-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0095-unique-binary-search-trees-ii) |
+| [0131-palindrome-partitioning](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0131-palindrome-partitioning) |
 ## Two Pointers
 |  |
 | ------- |
