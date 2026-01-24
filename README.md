@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0352-data-stream-as-disjoint-intervals) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0074-search-a-2d-matrix) |
