@@ -250,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
