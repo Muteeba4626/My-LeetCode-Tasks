@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0085-maximal-rectangle) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0052-n-queens-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0131-palindrome-partitioning) |
