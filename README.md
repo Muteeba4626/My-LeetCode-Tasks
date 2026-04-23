@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0044-wildcard-matching) |
+| [0065-valid-number](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0065-valid-number) |
 | [0087-scramble-string](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0131-palindrome-partitioning) |
