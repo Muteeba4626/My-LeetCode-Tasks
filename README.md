@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0051-n-queens) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0174-dungeon-game) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0052-n-queens-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Muteeba4626/My-LeetCode-Tasks/tree/master/0095-unique-binary-search-trees-ii) |
